@@ -18,6 +18,10 @@ public class HelloWorld {
         System.out.println("########################");
         System.out.println("########################");
         
+        double word = .203241;
+        
+        System.out.printf("Hello %.2f",word);
+        
     }
 }
     
