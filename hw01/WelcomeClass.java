@@ -4,12 +4,10 @@
 
 //define a class
 public class WelcomeClass {
-    
-    //main method
-    public static void main(String[] args) {
-    System.out.println(1+1+"day"+2+3);
-    //System.out.println(3*4==7>5);
-    System.out.println(5%16);
-    }
+public static void main(String[] args){
+  for(int k = 9, double i = 5; k >= i; k--) {
+    System.out.println(k);
+  }
+}
 }
 
