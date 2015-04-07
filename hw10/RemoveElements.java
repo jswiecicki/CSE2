@@ -5,7 +5,7 @@
 // This program will demonstrates array manipulation by allowing a user to delete certain values/places from arrays.
 
 import java.util.*; //imports necessary classes
-public class Elimination{
+public class RemoveElements{
   public static Scanner scan; //allows the scanner class to be used everywhere
   public static void main(String [] arg){
     scan = new Scanner(System.in); //constructs the scanner class
